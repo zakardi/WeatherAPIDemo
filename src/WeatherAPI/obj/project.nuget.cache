@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ll07RmAgQBrp3OvGM0qidgIKyBRjt+D/aLv3X4SGPvuE1PSU6jWqfidRkmXUV9u114uyQDALHsIM5QHNMm5+ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z00436MF\\WeatherAPI\\src\\WeatherAPI\\WeatherAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z00436MF\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
